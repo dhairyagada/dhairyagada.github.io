@@ -253,4 +253,31 @@ header{
 .aboutTop{
 	background:#00bdbd;
 	height:60px;
+}	
+
+.acads{
+	background:#D8D8D8;
+	color:#474d5d;
+	position: relative;
+}
+.acads .container{
+	padding-top:85px ;
+	padding-bottom:69px ;
+}
+.acads .heading p{
+	padding-bottom:41px;
+}
+
+.acads p{
+	color:#474d5d;
+}
+.acads h2{
+	color:#ff675f;
+}
+
+.acads .info p{
+	color:#84868d;
+	font-size:13px;
+	line-height:18px;
+	text-align:center;
 }
