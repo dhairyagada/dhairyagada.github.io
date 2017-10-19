@@ -346,3 +346,63 @@ header{
 	font-weight: 400;
 	color: #474d5d;
 }
+
+.techprojs{
+	background:#eeeeee;
+	position: relative;
+}
+.techprojs .container{
+	padding-top:85px ;
+	padding-bottom:90px ;
+}
+
+.techprojs h2{
+	color:#ff675f;
+}
+.techprojs p{
+	color:#84868d;
+	/*font-size:13px;*/
+	line-height:18px;
+}
+
+.details .infoarea{
+	border-left: solid 1px #eaeaea;
+	padding-bottom:47px;
+}
+.details:last-child .infoarea{
+	padding-bottom:0px;
+}
+.exCon{
+	width:auto;
+	background:#f3f3f3;
+	border-bottom:solid 4px #eeeeee;
+	padding:22px 47px 6px 47px;
+	margin-left:15px;
+	text-align:left;
+}
+
+.exCon p{
+	color:#84868d;
+	line-height:21px;
+}
+.exCon a{
+	color:#474d5d;
+	padding-bottom:3px;
+	font-family: 'Open Sans', sans-serif;
+	font-size:19px;
+	line-height:24px;
+	font-weight:600;
+	margin:0px;
+}
+.exCon h5{
+	color:#474d5d;
+}
+.techprojs .exCon{
+	background:#fafafa;
+	border-bottom:solid 4px #e8e7e7;
+}
+
+.techprojs .details .infoarea{
+	border-left-color:#e5e4e4;
+}
+
