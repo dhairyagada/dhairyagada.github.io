@@ -394,15 +394,33 @@ header{
 	font-weight:600;
 	margin:0px;
 }
-.exCon h5{
-	color:#474d5d;
-}
+
 .techprojs .exCon{
 	background:#fafafa;
 	border-bottom:solid 4px #e8e7e7;
 }
 
-.techprojs .details .infoarea{
-	border-left-color:#e5e4e4;
+.skills{
+	background:#FFFFFF;
+	color:#474d5d;
+	position: relative;
+}
+.skills .container{
+	padding-top:85px ;
+	padding-bottom:69px ;
+}
+.skills .heading p{
+	padding-bottom:41px;
 }
 
+.skills p{
+	color:#474d5d;
+}
+
+.skills h3{
+	padding-top: 50px;
+	font-size: 28px;
+	font-weight: 600;
+	color: darkslategray;
+	padding-bottom: 35px;
+}
